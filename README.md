@@ -15,5 +15,5 @@
 - [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)
 - [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem)
 - [Day 15: Linked List](ps://www.hackerrank.com/challenges/30-linked-list/problem)
-- [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem
-)
+- [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
+- [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)
