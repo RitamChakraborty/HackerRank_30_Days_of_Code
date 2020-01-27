@@ -21,3 +21,5 @@
 - [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)
 - [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)
 - [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem)
+- [Day 22: Binary Search Threes](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
+- [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)
