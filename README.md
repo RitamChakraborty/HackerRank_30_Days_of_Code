@@ -23,3 +23,4 @@
 - [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem)
 - [Day 22: Binary Search Threes](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
 - [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)
+- [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
