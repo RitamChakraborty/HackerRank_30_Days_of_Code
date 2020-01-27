@@ -24,3 +24,4 @@
 - [Day 22: Binary Search Threes](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
 - [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)
 - [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
+- [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
