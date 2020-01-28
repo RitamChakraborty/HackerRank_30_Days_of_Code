@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/30-review-loop/problem
+
 package day_6_lets_review;
 
 import java.io.BufferedReader;

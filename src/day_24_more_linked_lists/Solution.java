@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/30-linked-list-deletion/problem
+
 package day_24_more_linked_lists;
 
 import java.util.Scanner;

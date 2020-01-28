@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/30-bitwise-and/problem
+
 package day_29_bitwise_and;
 
 import java.io.BufferedReader;

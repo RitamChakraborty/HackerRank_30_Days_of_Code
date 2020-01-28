@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/30-data-types/problem
+
 package day_2_operators;
 
 import java.io.BufferedReader;

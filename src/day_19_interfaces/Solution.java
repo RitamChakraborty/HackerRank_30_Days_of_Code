@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/30-interfaces/problem
+
 package day_19_interfaces;
 
 import java.util.Scanner;

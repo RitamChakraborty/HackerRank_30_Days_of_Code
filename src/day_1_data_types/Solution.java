@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/30-hello-world/problem
+
 package day_1_data_types;
 
 import java.util.Scanner;

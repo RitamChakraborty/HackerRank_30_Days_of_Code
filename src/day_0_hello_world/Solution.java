@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/domains/tutorials/30-days-of-code
+
 package day_0_hello_world;
 
 import java.io.BufferedReader;
