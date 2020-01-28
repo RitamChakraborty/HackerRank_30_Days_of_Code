@@ -1,31 +1,33 @@
 # [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-- [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)
-- [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)
-- [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem)
-- [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
-- [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
-- [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem)
-- [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)
-- [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)
-- [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
-- [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)
-- [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
-- [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)
-- [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)
-- [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)
-- [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem)
-- [Day 15: Linked List](ps://www.hackerrank.com/challenges/30-linked-list/problem)
-- [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
-- [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)
-- [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)
-- [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)
-- [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)
-- [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem)
-- [Day 22: Binary Search Threes](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
-- [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)
-- [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
-- [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
-- [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)
-- [Day 27: Testing](https://www.hackerrank.com/challenges/30-testing/problem)
-- [Day 28: Regex, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)
-- [Day 29: Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
+| Problem | Solution |
+| ------- | -------- |
+| [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_0_hello_world/Solution.java) |
+| [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_1_data_types/Solution.java) |
+| [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_2_operators/Solution.java) |
+| [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_3_intro_to_conditional_statements/Solution.java) |
+| [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_4_class_vs_instance/Person.java) |
+| [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_5_loops/Solution.java) |
+| [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_6_lets_review/Solution.java) |
+| [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_7_arrays/Solution.java) |
+| [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_8_dictionaries_and_maps/Solution.java) |
+| [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_9_recursion_3/Solution.java) |
+| [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_10_binary_numbers/Solution.java) |
+| [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_11_2d_arrays/Solution.java) |
+| [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_12_inheritance/Solution.java) |
+| [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_13_abstract_classes/Solution.java) |
+| [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_14_scope/Solution.java) |
+| [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_15_linked_list/Solution.java) |
+| [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_16_exceptions_string_to_integer/Solution.java) |
+| [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_17_more_exceptions/Solution.java) |
+| [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_18_queues_and_stacks/Solution.java) |
+| [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_19_interfaces/Solution.java) |
+| [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_20_sorting/Solution.java) |
+| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_21_generics/Solution.java) |
+| [Day 22: Binary Search Threes](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_22_binary_search_trees/Solution.java) |
+| [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_23_bst_level_order_traversal/Solution.java) |
+| [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_24_more_linked_lists/Solution.java) |
+| [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_25_running_time_and_complexity/Solution.java) |
+| [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_26_nested_logic/Solution.java) |
+| [Day 27: Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_27_testing/Solution.java) |
+| [Day 28: Regex, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_28_regex_patterns_and_intro_to_dabases/Solution.java) |
+| [Day 29: Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_30_Days_of_Code/blob/master/src/day_29_bitwise_and/Solution.java) |
